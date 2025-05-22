@@ -18,16 +18,17 @@ This project automates the login process for a web application using **Selenium 
 
 selenium-testng-login-automation/
 ├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── pages/
-│ │ └── LoginPage.java
-│ └── test/
-│ └── java/
-│ └── tests/
-│ └── LoginTest.java
+│   ├── main/
+│   │   └── java/
+│   │       └── pages/
+│   │           └── LoginPage.java
+│   └── test/
+│       └── java/
+│           └── tests/
+│               └── LoginTest.java
 ├── pom.xml
 └── README.md
+
 
 ---
 
