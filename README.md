@@ -14,13 +14,6 @@ This project automates the login process for a web application using **Selenium 
 
 ---
 
-## 📁 Project Structure
-
-<pre> ```plaintext selenium-testng-login-automation/ ├── src/ │ ├── main/ │ │ └── java/ │ │ └── pages/ │ │ └── LoginPage.java │ └── test/ │ └── java/ │ └── tests/ │ └── LoginTest.java ├── pom.xml └── README.md ``` </pre>
-
-
----
-
 🛠️ Features
 Page Object Model (POM) design pattern
 
